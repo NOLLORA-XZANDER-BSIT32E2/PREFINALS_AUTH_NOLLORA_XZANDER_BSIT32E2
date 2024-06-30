@@ -1,4 +1,4 @@
-# PREFINALS_AUTH_NOLLORA_XZANDERJAMES_BSIT_32E2
+#PREFINALS_AUTH_NOLLORA_XZANDERJAMES_BSIT_32E2
 Onion Architecture: (Yes/No)
 
 Have you heard of the Onion Architecture principle in software design?
@@ -63,4 +63,5 @@ Bottlenecks (Encountered): (Yes/No and Briefly Explain)
 
 Have you encountered any performance challenges with traditional MVC applications compared to Web APIs? If so, briefly describe the scenario(s). (e.g., Frequent page refreshes causing performance overhead, complex data exchange requiring a more lightweight approach)
 
-The main problem I experienced was installing all the project's dependencies. With Web API dependencies, I have no experience debugging these issues, so I tried lowering the version to ensure compatibility.
+The main problem I experienced was installing all the project's dependencies. 
+With Web API dependencies, I have no experience debugging these issues, so I tried lowering the version to ensure compatibility.
